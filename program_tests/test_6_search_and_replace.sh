@@ -1,0 +1,6 @@
+./temporary_files/output_generator "Papache est un sabre" "a" "o"
+./temporary_files/output_generator "zaz" "art" "zul"
+./temporary_files/output_generator "zaz" "r" "u"
+./temporary_files/output_generator "jacob" "a" "b" "c" "e"
+./temporary_files/output_generator "ZoZ eT Dovid oiME le METol." "o" "a"
+./temporary_files/output_generator "wNcOre Un ExEmPle Pas Facilw a Ecrirw " "w" "e"

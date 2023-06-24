@@ -1,0 +1,5 @@
+./temporary_files/output_generator "FOR PONY"
+./temporary_files/output_generator "this        ...       is sparta, then again, maybe    not"
+./temporary_files/output_generator "   "
+./temporary_files/output_generator "a" "b"
+./temporary_files/output_generator "  lorem,ipsum  "
