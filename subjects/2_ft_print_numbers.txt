@@ -1,4 +1,4 @@
-Expected files: ft_print_numbers.c
+Expected files: 2_ft_print_numbers.c
 Allowed functions: write
 ----------
 Write a function that displays all digits in ascending order.

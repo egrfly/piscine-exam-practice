@@ -1,4 +1,4 @@
-Expected files: is_power_of_2.c
+Expected files: 10_is_power_of_2.c
 Allowed functions: 
 ----------
 Write a function that determines if a given number is a power of 2.

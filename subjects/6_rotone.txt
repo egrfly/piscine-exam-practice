@@ -1,4 +1,4 @@
-Expected files: rotone.c
+Expected files: 6_rotone.c
 Allowed functions: write
 ----------
 

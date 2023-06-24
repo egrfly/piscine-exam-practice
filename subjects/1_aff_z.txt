@@ -1,4 +1,4 @@
-Expected files: aff_z.c
+Expected files: 1_aff_z.c
 Allowed functions: write
 ----------
 Write a program that takes a string, and displays the first 'z'

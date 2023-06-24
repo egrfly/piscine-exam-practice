@@ -1,4 +1,4 @@
-Expected files: union.c
+Expected files: 10_union.c
 Allowed functions: write
 ----------
 Write a program that takes two strings and displays, without doubles, the

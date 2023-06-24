@@ -1,4 +1,4 @@
-Expected files: rev_print.c
+Expected files: 7_rev_print.c
 Allowed functions: write
 ----------
 Write a program that takes a string, and displays the string in reverse

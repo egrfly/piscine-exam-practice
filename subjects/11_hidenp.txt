@@ -1,4 +1,4 @@
-Expected files: hidenp.c
+Expected files: 11_hidenp.c
 Allowed functions: write
 ----------
 Write a program named hidenp that takes two strings and displays 1

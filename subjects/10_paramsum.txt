@@ -1,4 +1,4 @@
-Expected files: paramsum.c
+Expected files: 10_paramsum.c
 Allowed functions: write
 ----------
 Write a program that displays the number of arguments passed to it, followed by

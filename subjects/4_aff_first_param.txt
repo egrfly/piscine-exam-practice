@@ -1,4 +1,4 @@
-Expected files: aff_first_param.c
+Expected files: 4_aff_first_param.c
 Allowed functions: write
 ----------
 Write a program that takes strings as arguments, and displays its first

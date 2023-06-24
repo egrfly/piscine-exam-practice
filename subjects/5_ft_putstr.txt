@@ -1,4 +1,4 @@
-Expected files: ft_putstr.c
+Expected files: 5_ft_putstr.c
 Allowed functions: 
 ----------
 Write a function that displays a string on the standard output.

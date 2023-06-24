@@ -1,4 +1,4 @@
-Expected files: tab_mult.c
+Expected files: 13_tab_mult.c
 Allowed functions: write
 ----------
 Write a program that displays a number's multiplication table.

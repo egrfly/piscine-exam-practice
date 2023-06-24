@@ -1,4 +1,4 @@
-Expected files: aff_a.c
+Expected files: 1_aff_a.c
 Allowed functions: write
 ----------
 Write a program that takes a string, and displays the first 'a' character it

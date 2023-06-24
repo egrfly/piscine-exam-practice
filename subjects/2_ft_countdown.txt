@@ -1,4 +1,4 @@
-Expected files: ft_countdown.c
+Expected files: 2_ft_countdown.c
 Allowed functions: write
 ----------
 Write a program that displays all digits in descending order, followed by a

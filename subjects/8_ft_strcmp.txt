@@ -1,4 +1,4 @@
-Expected files: ft_strcmp.c
+Expected files: 8_ft_strcmp.c
 Allowed functions: 
 ----------
 Reproduce the behavior of the function strcmp (man strcmp).

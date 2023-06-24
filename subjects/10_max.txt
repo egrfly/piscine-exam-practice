@@ -1,4 +1,4 @@
-Expected files: max.c
+Expected files: 10_max.c
 Allowed functions: 
 ----------
 Write the following function:

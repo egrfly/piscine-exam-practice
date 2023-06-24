@@ -1,4 +1,4 @@
-Expected files: *.c, *.h
+Expected files: 11_do_op.c
 Allowed functions: atoi, printf, write
 ----------
 Write a program that takes three strings:

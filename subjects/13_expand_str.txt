@@ -1,4 +1,4 @@
-Expected files: expand_str.c
+Expected files: 13_expand_str.c
 Allowed functions: write
 ----------
 

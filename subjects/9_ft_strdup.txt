@@ -1,4 +1,4 @@
-Expected files: ft_strdup.c
+Expected files: 8_ft_strdup.c
 Allowed functions: malloc
 ----------
 

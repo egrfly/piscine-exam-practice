@@ -1,4 +1,4 @@
-Expected files: first_word.c
+Expected files: 7_first_word.c
 Allowed functions: write
 ----------
 Write a program that takes a string and displays its first word, followed by a

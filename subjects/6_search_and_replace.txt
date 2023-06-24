@@ -1,4 +1,4 @@
-Expected files: search_and_replace.c
+Expected files: 6_search_and_replace.c
 Allowed functions: write, exit
 ----------
 Write a program called search_and_replace that takes 3 arguments, the first 

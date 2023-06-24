@@ -1,4 +1,4 @@
-Expected files: pgcd.c
+Expected files: 12_pgcd.c
 Allowed functions: printf, atoi, malloc, free
 ----------
 

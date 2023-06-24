@@ -1,4 +1,4 @@
-Expected files: wdmatch.c
+Expected files: 11_wdmatch.c
 Allowed functions: write
 ----------
 Write a program that takes two strings and checks whether it's possible to

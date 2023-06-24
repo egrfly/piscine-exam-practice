@@ -1,4 +1,4 @@
-Expected files: add_prime_sum.c
+Expected files: 11_add_prime_sum.c
 Allowed functions: write, exit
 ----------
 Write a program that takes a positive integer as argument and displays the sum

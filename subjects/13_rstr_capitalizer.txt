@@ -1,4 +1,4 @@
-Expected files: rstr_capitalizer.c
+Expected files: 13_rstr_capitalizer.c
 Allowed functions: write
 ----------
 Write a program that takes one or more strings and, for each argument, puts 

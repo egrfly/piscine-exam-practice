@@ -1,4 +1,4 @@
-Expected files: inter.c
+Expected files: 10_inter.c
 Allowed functions: write
 ----------
 
