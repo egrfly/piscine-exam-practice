@@ -6,5 +6,5 @@ int main(void)
     printf("%d\n", ft_strcmp("abc", "def") < 0);
     printf("%d\n", ft_strcmp("def", "abc") > 0);
     printf("%d\n", ft_strcmp("abc", "abd") < 0);
-    printf("%d\n", ft_strcmp("abc", "abd") == 0);
+    printf("%d\n", ft_strcmp("abc", "abc") == 0);
 }
