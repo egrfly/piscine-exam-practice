@@ -6,7 +6,7 @@ int main(void)
     char    buffer[10];
     char    *result;
 
-    result = ft_strcpy(buffer, "What\n");
+    result = ft_strcpy(buffer, "What");
     printf("%s\n", buffer);
     printf("%s\n", result);
     printf("%d\n", buffer == result);
