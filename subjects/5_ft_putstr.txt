@@ -1,5 +1,5 @@
 Expected files: 5_ft_putstr.c
-Allowed functions: 
+Allowed functions: write
 ----------
 Write a function that displays a string on the standard output.
 
