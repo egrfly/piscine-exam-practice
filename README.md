@@ -13,3 +13,7 @@ Look in the `subjects` directory to find task descriptions, and create the expec
 ```bash
 sh run_tests.sh <question name>
 ```
+
+## Notes
+- Subjects for level 11 and above are available but currently no tests - see if you can add your own
+- Tried my best to make this bug-free but no guarantees. Feel free to create a GitHub issue if you find one
